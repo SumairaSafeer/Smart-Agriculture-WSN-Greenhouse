@@ -78,4 +78,12 @@ WSN_Smart_Agriculture_Greenhouse_Monitoring/
 ## 6. How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WSN_Smart_Agriculture_Greenhouse_Monitoring.git
+   git clone https://github.com/SumairaSafeer/WSN_Smart_Agriculture_Greenhouse_Monitoring.git
+
+## 👩‍🎓 Author
+
+**Sumaira Safeer**  
+Computer Engineer 
+COMSATS University Islamabad, Attock Campus  
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
+
